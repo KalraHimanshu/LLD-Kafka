@@ -1,5 +1,4 @@
  **Entities**:
- aditis@tekion.com
 1. **Broker**: Singleton, Having responsibiities to 
    1. initiate kafka.
 2. **Client**: As a Plugger 
