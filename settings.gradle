@@ -1,0 +1,3 @@
+rootProject.name = 'CustomKafka'
+include 'KafkaClient'
+
